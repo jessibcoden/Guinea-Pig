@@ -1,4 +1,47 @@
-.article-section {
-	background-color: pink;
-	margin: 20px;
+/* **** When you click the "Add color" button, the guinea-pig element's text color should change to blue. ****
+*/
+.color-it {
+	color: blue;
+}
+
+
+/* **** When you click the "Hulkify" button, the guinea-pig element's font size should become much larger. ****
+*/
+.bigger {
+	font-size: 5em;
+}
+
+
+/* **** When you click the "Capture it" button, the guinea-pig element should have a border added to it. ****
+*/
+.pig-border {
+	border: 5px dotted grey;
+}
+
+
+/* **** When you click the "Rounded" button, the guinea-pig element's border should become rounded. ****
+*/
+.border-round {
+	border-radius: 15%;
+}
+
+/* ***** The first section's text should be bold. ****
+*/
+.introduction {
+	font-weight: bold;
+}
+
+
+/* **** The last section's text should be bold and italicized. ****
+*/
+.conclusion {
+	font-style: italic;
+}
+
+
+/* **** Make the buttons stop appearing next to each other as inline elements. 
+Change them into block elements.****
+*/
+.button-display {
+	display: block;
 }
