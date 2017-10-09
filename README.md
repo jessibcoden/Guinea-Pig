@@ -1,5 +1,8 @@
 # Guinea-Pig
-## Bootcamp Class Assignment
+
+> Nashville Software School, Full-Stack Dev Bootcamp, Front-End Independant Exercise
+> 
+
 
 ### Requirements
 	1. There is sample HTML file content below so create an index.html for it and place the content in the body tag.
@@ -38,4 +41,18 @@
 	12. The first section's text should be bold.
 	13. The last section's text should be bold and italicized.
 	14. Make the buttons stop appearing next to each other as inline elements. Change them into block elements.
+
+### How to run (Node must be installed on your machine):
+```
+git clone https://github.com/lady-ace/Guinea-Pig
+cd Guinea-Pig
+npm install http-server -g
+http-server -p 8080
+```
+
+This will show in your browser at:
+`http://localhost:8080`
+
+### Contributors:
+[Jessica Brawner](https://github.com/lady-ace)
 
